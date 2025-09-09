@@ -1,5 +1,5 @@
 
-# 🩺 Medical Diagnosis Expert System (Python)
+# 🩺 Medical Diagnosis Expert System 
 
 An **AI-based medical diagnosis expert system** written in Python.
 It asks patients for their details and symptoms, then suggests possible diseases and prescriptions based on a knowledge base.
